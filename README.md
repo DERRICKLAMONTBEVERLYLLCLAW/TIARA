@@ -17,19 +17,6 @@ for both **California Superior Court** and **U.S. District Court (Federal RICO)*
 
 ---
 
-## 🌐 Public Landing Page
-
-A simple landing page is included (`index.html` + `style.css`) to host the Exhibit F downloads publicly 
-through GitHub Pages. To activate:
-
-1. Go to **Settings > Pages** in this repo.
-2. Set **Branch = main** and **Folder = root**.
-3. Save.  
-   - Your Exhibit F page will be live at:  
-     `https://your-github-username.github.io/dlb-legal-archives-exhibit-f`
-
----
-
 ## ⚖️ Legal Context
 
 These documents are part of formal filings in:
